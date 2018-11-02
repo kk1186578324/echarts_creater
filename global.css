@@ -1,0 +1,28 @@
+.log-box{
+    width: 200px;
+    border: 1px solid gray;
+    float: right;
+}
+
+.clearfloat:after{display:block;clear:both;content:"";visibility:hidden;height:0}
+.clearfloat{zoom:1}
+#cont{
+    border: 1px solid gray;
+}
+#count2{
+    border: 1px solid gray;
+}
+.charts-box{
+    width: 400px;
+    height: 500px;
+}
+.img-log{
+    width: 50px;
+}
+.img-wrap{
+    float: left;
+    padding:10px;
+}
+/*.current{*/
+    /**/
+/*}*/
